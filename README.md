@@ -715,6 +715,8 @@ Por lo tanto, la IR1es la que no está conectada en el circuito.
 
 4. Video:
 
+https://youtu.be/83NoPSKKQt8
+
 5. Conclusiones:
 
 En conclusión, un circuito en serie se caracteriza porque la corriente se mantiene constante y el voltaje se divide, además de tener una sola trayectoria por donde viaja la corriente, mediante la aplicación de la ley de Ohm se tiente el voltaje total y la resistencia total, la cual se obtiene de la formula I= Vs/Rt  o I= Vx/Rx.
