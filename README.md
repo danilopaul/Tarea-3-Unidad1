@@ -1,7 +1,8 @@
 # Tarea-3-Unidad1
 
 1.	Objetivos:
-1.1. Objetivo general:
+
+3.1. Objetivo general:
 
 Conocer y comprender los conceptos y características importantes del circuito en serie y en paralelo, mediante conocimiento previo que se debe tener claro y utilizar cada formula según corresponda, para la resolución de los ejercicios propuestos aplicando las formulas y conceptos identificados en cada caso que se debe obtener del circuito ya sea en serie o en paralelo.
 
